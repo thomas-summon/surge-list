@@ -10,3 +10,6 @@ DOMAIN-SUFFIX,tweetmarker.net
 PROCESS-NAME,Telegram Desktop
 PROCESS-NAME,Telegram X
 PROCESS-NAME,Telegram
+USER-AGENT,Telegram Desktop
+USER-AGENT,Telegram X
+USER-AGENT,Telegram
