@@ -4,12 +4,5 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
-PROCESS-NAME,Telegram Desktop
-PROCESS-NAME,Telegram X
-PROCESS-NAME,Telegram
-USER-AGENT,Telegram Desktop
-USER-AGENT,Telegram X
-USER-AGENT,Telegram
